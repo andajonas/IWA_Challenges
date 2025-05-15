@@ -1,0 +1,1 @@
+console.log('Roles:', nwabisa.Role, johanes.role, alex.role)
